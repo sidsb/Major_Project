@@ -30,6 +30,13 @@
   font-size: 13px;
 }
 
+.sidebarOption > a>p {
+  margin-left: 10px;
+  color: gray;
+  font-weight: 400;
+  font-size: 13px;
+}
+
 .sidebarOption > .text {
   margin-left: 23px;
   color: gray;

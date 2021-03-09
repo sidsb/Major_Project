@@ -6,11 +6,14 @@ function SidebarOptions() {
   return (
     <div className="sidebarOptions">
       <div className="sidebarOption">
+
         <img
           src="https://qphs.fs.quoracdn.net/main-thumb-t-930-100-cbbsbwijdhpyzlpipejvqpiijhhoaday.jpeg"
           alt=""
         />
-        <p>Gyms</p>
+        <a href="https://sid-my-gym.herokuapp.com/">
+          <p>Gyms</p>
+        </a>
       </div>
 
       <div className="sidebarOption">
@@ -34,7 +37,9 @@ function SidebarOptions() {
           src="https://qphs.fs.quoracdn.net/main-thumb-t-877-100-e7jKHEQr0HExAIA9rlsyHlV6HJyRruEo.jpeg"
           alt=""
         />
-        <p>Diet</p>
+        <a href="https://enigmatic-retreat-50503.herokuapp.com">
+          <p>Diet</p>
+        </a>
       </div>
 
       <div className="sidebarOption">
@@ -42,7 +47,9 @@ function SidebarOptions() {
           src="https://qphs.fs.quoracdn.net/main-thumb-t-801-100-Sf8h894FXbQZQit0TeqDrrqS6xw6dwCQ.jpeg"
           alt=""
         />
-        <p>Music</p>
+        <a href="https://cryptic-earth-46156.herokuapp.com">
+          <p>Music</p>
+        </a>
       </div>
 
       <div className="sidebarOption">
@@ -58,7 +65,9 @@ function SidebarOptions() {
           src="https://qphs.fs.quoracdn.net/main-thumb-t-1140-100-24q3tiv4WhPssc5TGwf0mvCM5aiqGVXW.jpeg"
           alt=""
         />
-        <p>Yoga</p>
+        <a href="https://morning-mesa-34721.herokuapp.com/">
+          <p>Yoga</p>
+        </a>
       </div>
 
       <div className="sidebarOption">
